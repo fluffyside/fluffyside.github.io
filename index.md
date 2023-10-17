@@ -1,5 +1,7 @@
 ---
-title: My First Page
+title: Hello Title
 layout: default
+
 ---
+
 # Hello World!
